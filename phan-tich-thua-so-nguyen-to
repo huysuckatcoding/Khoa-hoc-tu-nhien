@@ -1,0 +1,12 @@
+<html>
+    <head>
+		<title>Phân tích thừa số nguyên tố</title>
+		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+	</head>
+	<body>
+		<form class='w3-container'>
+			<label>Số tự nhiên bất kỳ:</label>
+			<input type='text' oninput='primeFactor(n)' class="w3-input"></input>
+		</form>
+	</body>
+</html>
